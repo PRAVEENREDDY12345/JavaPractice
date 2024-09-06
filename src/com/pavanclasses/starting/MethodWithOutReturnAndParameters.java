@@ -4,8 +4,8 @@ public class MethodWithOutReturnAndParameters {
 
 	
 	public void m1() {
-		
-		System.out.println("This is the method with out return and Parameters");
+		int s ;
+		System.out.println("This is the method with out return and Parameters"+s);
 		
 	}
 	
