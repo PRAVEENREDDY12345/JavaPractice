@@ -3,7 +3,7 @@ package com.pavanclasses.starting;
 public class MethodWithOutReturnAndParameters {
 
 	
-	public void m2() {
+	public void m1() {
 		
 		System.out.println("This is the method with out return and Parameters");
 		
@@ -12,7 +12,7 @@ public class MethodWithOutReturnAndParameters {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MethodWithOutReturnAndParameters method = new MethodWithOutReturnAndParameters();
-		method.m2();
+		method.m1();
 	}
 
 }
