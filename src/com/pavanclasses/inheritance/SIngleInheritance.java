@@ -6,6 +6,7 @@ public class SingleInheritance {
 		// TODO Auto-generated method stub
 Employee e = new Employee(1,"Praveen", 7.63);
 e.m1();
+System.out.println(e.id+ ", ");
 SoftwareEngineer se = new SoftwareEngineer(2,"Naresh",3.5);
 se.m2();
 
